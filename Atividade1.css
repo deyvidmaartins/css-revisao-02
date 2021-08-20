@@ -1,0 +1,56 @@
+#p1 {
+    border: red dotted;
+    border-radius: 5px;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: red;
+}
+#p2 {
+    border: orange solid;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: orange;
+}
+#p3 {
+    border: yellow dashed;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: yellow;
+}
+#p4 {
+    border: green solid;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: green;
+}
+#p5 {
+    border: blue inset;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: blue;
+}
+#p6 {
+    border: purple double;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background-color: purple;
+}
+#p7 {
+    border: black groove;
+    margin-top: 25px;
+    margin-bottom: 75px;
+    margin-left: 100px;
+    margin-right: 50px;
+}
